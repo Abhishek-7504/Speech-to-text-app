@@ -15,8 +15,8 @@ Folder Structure
 ├── jni/ # (Optional) Native code if extended
 ├── Copy-JNADispatch.ps1 # Script to help copy JNA native libs
 ├── jna.zip # Downloaded JNA release archive
-├── classes.jar # Possibly JNA or project dependencies
-├── AndroidManifest.xml # Moved out of app/src/main (may need relocation)
+├── classes.jar 
+├── AndroidManifest.xml 
 ├── build.gradle
 ├── settings.gradle
 └── gradlew / gradlew.bat # Gradle wrapper scripts
